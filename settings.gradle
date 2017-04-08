@@ -1,0 +1,3 @@
+include ':app', ':mypullto', ':myswip', ':mysliding', ':mydrawerlayout', ':drawerlayout'
+include ':library'
+include ':Slidinglibrary'

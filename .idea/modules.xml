@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyDay25.iml" filepath="$PROJECT_DIR$/MyDay25.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Slidinglibrary/Slidinglibrary.iml" filepath="$PROJECT_DIR$/Slidinglibrary/Slidinglibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/drawerlayout/drawerlayout.iml" filepath="$PROJECT_DIR$/drawerlayout/drawerlayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mydrawerlayout/mydrawerlayout.iml" filepath="$PROJECT_DIR$/mydrawerlayout/mydrawerlayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mypullto/mypullto.iml" filepath="$PROJECT_DIR$/mypullto/mypullto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mysliding/mysliding.iml" filepath="$PROJECT_DIR$/mysliding/mysliding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myswip/myswip.iml" filepath="$PROJECT_DIR$/myswip/myswip.iml" />
+    </modules>
+  </component>
+</project>
